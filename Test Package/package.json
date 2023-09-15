@@ -1,0 +1,19 @@
+{
+  "name": "aakash-wa-message-sender",
+  "version": "1.0.5",
+  "description": "A Simple Whatsapp Message Sender Created By Aakash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-router-dom",
+    "nodejs"
+  ],
+  "author": "Aakash R",
+  "license": "ISC",
+  "dependencies": {
+    "aakash-wa-message-sender": "^1.0.4"
+  }
+}
